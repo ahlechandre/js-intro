@@ -1,4 +1,4 @@
-# JavaScript: guia de Introdução à Linguagem
+# JavaScript: Guia de Introdução à Linguagem
 
 * **Capítulo I**: Introdução
 * **Capítulo II**: Gramática e tipos
